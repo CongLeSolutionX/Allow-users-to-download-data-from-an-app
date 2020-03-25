@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585106434171.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3701672559",
+    "id" : "283FA0AE",
+    "lastKnownWriteTime" : 1585106574,
+    "last_content_update" : 1585106574385,
+    "path" : "~/Desktop/Ex_Files_Data_Apps_R_Shiny/Exercise Files/07_01/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "16,4",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
